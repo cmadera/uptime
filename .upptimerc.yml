@@ -10,8 +10,6 @@ sites:
     url: https://bigbank.com.br
   - name: Up SeeU
     url: http://up.seeu.me
-  - name: veranoseguro.michelin.com.pe
-    url: https://veranoseguro.michelin.com.pe
   - name: corporativo.michelin.com.br
     url: https://corporativo.michelin.com.br
   - name: corporativo.michelin.com.ar
@@ -64,10 +62,6 @@ sites:
     url: https://www.pneustigar.com.br
   - name: www.levorin.com.br
     url: https://www.levorin.com.br
-  - name: canjes.michelin.com.ar
-    url: https://canjes.michelin.com.ar
-  - name: cardriverxp.michelin.com.ar
-    url: https://cardriverxp.michelin.com.ar
   - name: www.llantastigar.com.co
     url: https://www.llantastigar.com.co
   - name: www.llantastigar.com.ec
@@ -120,16 +114,6 @@ sites:
     url: https://api.fleetmanager.michelin.com.br
   - name: dmichelin.brprop.com.br
     url: https://dmichelin.brprop.com.br
-  - name: www-qa.michelin-ads.com
-    url: https://www-qa.michelin-ads.com
-  - name: ftp.treinamentosmichelin.com.br
-    url: https://ftp.treinamentosmichelin.com.br
-  - name: host.treinamentosmichelin.com.br
-    url: https://host.treinamentosmichelin.com.br
-  - name: mail.treinamentosmichelin.com.br
-    url: https://mail.treinamentosmichelin.com.br
-  - name: ns1.treinamentosmichelin.com.br
-    url: https://ns1.treinamentosmichelin.com.br
   - name: www.guiadopneu.com.br
     url: https://www.guiadopneu.com.br
   - name: ofertasmichelin.com.br
