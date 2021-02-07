@@ -10,6 +10,156 @@ sites:
     url: https://bigbank.com.br
   - name: Up SeeU
     url: http://up.seeu.me
+  - name: veranoseguro.michelin.com.pe
+    url: https://veranoseguro.michelin.com.pe
+  - name: corporativo.michelin.com.br
+    url: https://corporativo.michelin.com.br
+  - name: corporativo.michelin.com.ar
+    url: https://corporativo.michelin.com.ar
+  - name: corporativo.michelinamericalatina.com
+    url: https://corporativo.michelinamericalatina.com
+  - name: corporativo.michelin.com.ve
+    url: https://corporativo.michelin.com.ve
+  - name: corporativo.michelin.cl
+    url: https://corporativo.michelin.cl
+  - name: rem.michelin.com.br
+    url: https://rem.michelin.com.br
+  - name: corporativo.michelin.com.ec
+    url: https://corporativo.michelin.com.ec
+  - name: neumaticostigar.com.ar
+    url: https://neumaticostigar.com.ar
+  - name: www.bfgoodrichcolombia.com
+    url: https://www.bfgoodrichcolombia.com
+  - name: llantastigar.com.co
+    url: https://llantastigar.com.co
+  - name: llantastigar.com.ec
+    url: https://llantastigar.com.ec
+  - name: llantastigar.com.pe
+    url: https://llantastigar.com.pe
+  - name: pneustigar.com.br
+    url: https://pneustigar.com.br
+  - name: corporativo.michelin.com.pe
+    url: https://corporativo.michelin.com.pe
+  - name: corporativo.michelin.com.co
+    url: https://corporativo.michelin.com.co
+  - name: www.michelin.com.ar
+    url: https://www.michelin.com.ar
+  - name: www.michelin.com.co
+    url: https://www.michelin.com.co
+  - name: www.bfgoodrich.cl
+    url: https://www.bfgoodrich.cl
+  - name: www.michelin.cl
+    url: https://www.michelin.cl
+  - name: www.michelin.com.pe
+    url: https://www.michelin.com.pe
+  - name: www.michelin.com.br
+    url: https://www.michelin.com.br
+  - name: www.pneusbfgoodrich.com.br
+    url: https://www.pneusbfgoodrich.com.br
+  - name: www.bfgoodrichargentina.com.ar
+    url: https://www.bfgoodrichargentina.com.ar
+  - name: www.michelinamericalatina.com
+    url: https://www.michelinamericalatina.com
+  - name: www.pneustigar.com.br
+    url: https://www.pneustigar.com.br
+  - name: www.levorin.com.br
+    url: https://www.levorin.com.br
+  - name: canjes.michelin.com.ar
+    url: https://canjes.michelin.com.ar
+  - name: cardriverxp.michelin.com.ar
+    url: https://cardriverxp.michelin.com.ar
+  - name: www.llantastigar.com.co
+    url: https://www.llantastigar.com.co
+  - name: www.llantastigar.com.ec
+    url: https://www.llantastigar.com.ec
+  - name: www.llantastigar.com.pe
+    url: https://www.llantastigar.com.pe
+  - name: www.neumaticostigar.com.ar
+    url: https://www.neumaticostigar.com.ar
+  - name: www.uniroyal.com.br
+    url: https://www.uniroyal.com.br
+  - name: camiones-omnibus.michelin.com.ar
+    url: https://camiones-omnibus.michelin.com.ar
+  - name: caminhoes-onibus.michelin.com.br
+    url: https://caminhoes-onibus.michelin.com.br
+  - name: camiones-omnibus.michelin.cl
+    url: https://camiones-omnibus.michelin.cl
+  - name: camiones-omnibus.michelin.com.ec
+    url: https://camiones-omnibus.michelin.com.ec
+  - name: camiones-omnibus.michelin.com.pe
+    url: https://camiones-omnibus.michelin.com.pe
+  - name: camiones-omnibus.michelin.com.co
+    url: https://camiones-omnibus.michelin.com.co
+  - name: camiones-omnibus.michelin.com.ve
+    url: https://camiones-omnibus.michelin.com.ve
+  - name: red.michelin.com.ar
+    url: https://red.michelin.com.ar
+  - name: stage.ar.camso.co
+    url: https://stage.ar.camso.co
+  - name: stage.br.camso.co
+    url: https://stage.br.camso.co
+  - name: red.michelin.cl
+    url: https://red.michelin.cl
+  - name: redemichelinboapratica.net
+    url: https://redemichelinboapratica.net
+  - name: www.michelin-ads.com
+    url: https://www.michelin-ads.com
+  - name: www.redmichelin.com
+    url: https://www.redmichelin.com
+  - name: www.redemichelin.com.br
+    url: https://www.redemichelin.com.br
+  - name: compras.michelin-ads.com
+    url: https://compras.michelin-ads.com
+  - name: bibnetads-qa.michelin.com/bibnetBR
+    url: https://bibnetads-qa.michelin.com/bibnetBR
+  - name: cardealer.michelin.com.br
+    url: https://cardealer.michelin.com.br
+  - name: fleetmanager.michelin.com.br
+    url: https://fleetmanager.michelin.com.br
+  - name: api.fleetmanager.michelin.com.br
+    url: https://api.fleetmanager.michelin.com.br
+  - name: dmichelin.brprop.com.br
+    url: https://dmichelin.brprop.com.br
+  - name: www-qa.michelin-ads.com
+    url: https://www-qa.michelin-ads.com
+  - name: ftp.treinamentosmichelin.com.br
+    url: https://ftp.treinamentosmichelin.com.br
+  - name: host.treinamentosmichelin.com.br
+    url: https://host.treinamentosmichelin.com.br
+  - name: mail.treinamentosmichelin.com.br
+    url: https://mail.treinamentosmichelin.com.br
+  - name: ns1.treinamentosmichelin.com.br
+    url: https://ns1.treinamentosmichelin.com.br
+  - name: www.guiadopneu.com.br
+    url: https://www.guiadopneu.com.br
+  - name: ofertasmichelin.com.br
+    url: https://ofertasmichelin.com.br
+  - name: vagas.michelin.com.br
+    url: https://vagas.michelin.com.br
+  - name: bibnetads.michelin.com
+    url: https://bibnetads.michelin.com
+  - name: webads.michelin.com
+    url: https://webads.michelin.com
+  - name: rutasegura.michelin.com.co
+    url: https://rutasegura.michelin.com.co
+  - name: camso.com.br
+    url: https://camso.com.br
+  - name: camso.com.ar
+    url: https://camso.com.ar
+  - name: api.guiadopneu.com.br
+    url: https://api.guiadopneu.com.br
+  - name: extranetlevorin.com
+    url: https://extranetlevorin.com
+  - name: www.ofertasmichelin.com.br
+    url: https://www.ofertasmichelin.com.br
+  - name: www.redemichelinboapratica.net
+    url: https://www.redemichelinboapratica.net
+  - name: mail.redemichelin.com.br
+    url: https://mail.redemichelin.com.br
+  - name: new.redemichelin.com.br
+    url: https://new.redemichelin.com.br
+  - name: tbsgc.michelin-ads.com
+    url: https://tbsgc.michelin-ads.com
 #  - name: Test for HEAD
 #    method: HEAD
 #    url: http://up.seeu.me
