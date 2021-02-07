@@ -1,17 +1,15 @@
-# Change these first
+U# Change these first
 owner: upptime # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: SeeU
     url: https://seeu.me
   - name: Bigbank
     url: https://bigbank.com.br
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Up SeeU
+    url: http://up.seeu.me
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
