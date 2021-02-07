@@ -126,18 +126,12 @@ sites:
     url: https://webads.michelin.com
   - name: rutasegura.michelin.com.co
     url: https://rutasegura.michelin.com.co
-  - name: api.guiadopneu.com.br
-    url: https://api.guiadopneu.com.br
   - name: extranetlevorin.com
     url: https://extranetlevorin.com
   - name: www.ofertasmichelin.com.br
     url: https://www.ofertasmichelin.com.br
   - name: www.redemichelinboapratica.net
     url: https://www.redemichelinboapratica.net
-  - name: mail.redemichelin.com.br
-    url: https://mail.redemichelin.com.br
-  - name: new.redemichelin.com.br
-    url: https://new.redemichelin.com.br
   - name: tbsgc.michelin-ads.com
     url: https://tbsgc.michelin-ads.com
 #  - name: Test for HEAD
