@@ -895,19 +895,19 @@
     "url": "https://compras.michelin-ads.com",
     "icon": "https://favicons.githubusercontent.com/compras.michelin-ads.com",
     "slug": "compras-michelin-ads-com",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 611,
-    "timeDay": 395,
-    "timeWeek": 521,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 616,
+    "timeDay": 459,
+    "timeWeek": 539,
+    "timeMonth": 616,
+    "timeYear": 616,
     "dailyMinutesDown": {
-      "2021-02-19": 28
+      "2021-02-19": 41
     }
   },
   {
