@@ -766,10 +766,10 @@
     "url": "https://stage.ar.camso.co",
     "icon": "https://favicons.githubusercontent.com/stage.ar.camso.co",
     "slug": "stage-ar-camso-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1112,
@@ -777,7 +777,9 @@
     "timeWeek": 1052,
     "timeMonth": 1112,
     "timeYear": 1112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-21": 1
+    }
   },
   {
     "name": "stage.br.camso.co",
