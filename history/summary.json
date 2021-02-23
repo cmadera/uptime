@@ -917,19 +917,19 @@
     "url": "https://bibnetads-qa.michelin.com/bibnetBR",
     "icon": "https://favicons.githubusercontent.com/bibnetads-qa.michelin.com",
     "slug": "bibnetads-qa-michelin-com-bibnet-br",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 833,
-    "timeDay": 665,
-    "timeWeek": 794,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 829,
+    "timeDay": 710,
+    "timeWeek": 790,
+    "timeMonth": 829,
+    "timeYear": 829,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 126
     }
   },
   {
