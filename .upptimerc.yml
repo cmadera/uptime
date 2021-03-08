@@ -70,8 +70,8 @@ sites:
     url: https://www.llantastigar.com.pe
   - name: www.neumaticostigar.com.ar
     url: https://www.neumaticostigar.com.ar
-  - name: www.uniroyal.com.br
-    url: https://www.uniroyal.com.br
+  - name: uniroyal.com.br
+    url: https://uniroyal.com.br
   - name: camiones-omnibus.michelin.com.ar
     url: https://camiones-omnibus.michelin.com.ar
   - name: caminhoes-onibus.michelin.com.br
